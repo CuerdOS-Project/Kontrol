@@ -1,2 +1,2 @@
-# K-Controls
+# Kontrol
 Panel de Control de CuerdOS
